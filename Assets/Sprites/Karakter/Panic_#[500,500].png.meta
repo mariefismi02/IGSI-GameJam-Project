@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 6a3eaff0652740f4fbdff5c0ce8ff2b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7917432558192936818
+    second: Panic_#[500,500]_0
+  - first:
+      213: 239027553839413370
+    second: Panic_#[500,500]_1
+  - first:
+      213: -5710349942917161450
+    second: Panic_#[500,500]_2
+  - first:
+      213: -188703022424983704
+    second: Panic_#[500,500]_3
+  - first:
+      213: -7190867390651871201
+    second: Panic_#[500,500]_4
+  - first:
+      213: 5736033294478357862
+    second: Panic_#[500,500]_5
+  - first:
+      213: -2044382910253623594
+    second: Panic_#[500,500]_6
+  - first:
+      213: 3545809390436932049
+    second: Panic_#[500,500]_7
+  - first:
+      213: -8110406521198787492
+    second: Panic_#[500,500]_8
+  - first:
+      213: 5224455838948334471
+    second: Panic_#[500,500]_9
+  - first:
+      213: 329295489320988769
+    second: Panic_#[500,500]_10
+  - first:
+      213: 5884361503314681035
+    second: Panic_#[500,500]_11
+  - first:
+      213: 3962419952232647810
+    second: Panic_#[500,500]_12
+  - first:
+      213: 8657118536500957349
+    second: Panic_#[500,500]_13
+  - first:
+      213: 8608094557267856186
+    second: Panic_#[500,500]_14
+  - first:
+      213: 4823984833082570767
+    second: Panic_#[500,500]_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panic_#[500,500]_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1600
+        width: 360
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9a49a90897994ea3c59f719dd2485
+      internalID: 7917432558192936818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1604
+        width: 367
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce171ca5fe9c94a9302bffe4dadbf1
+      internalID: 239027553839413370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1603
+        width: 373
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d277e82ff32d6784e9db7b88dde5d62a
+      internalID: -5710349942917161450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_3
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1604
+        width: 369
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510260a10fb63144be2a692dc33bc62
+      internalID: -188703022424983704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1104
+        width: 369
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900d158023d5304390817259e4264e4
+      internalID: -7190867390651871201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1104
+        width: 368
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d968c4c7e9c6449c6a69445f22574
+      internalID: 5736033294478357862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1103
+        width: 365
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86636f6401ca3a24f9f4a6196f0b6e0e
+      internalID: -2044382910253623594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_7
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1101
+        width: 368
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740ee2fcaee4fa42be46601c587f17c
+      internalID: 3545809390436932049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 602
+        width: 373
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada57df1cc02947459e853af861e782b
+      internalID: -8110406521198787492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 604
+        width: 361
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092ae08f03ea5149a7ea9fd61fd1930
+      internalID: 5224455838948334471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 603
+        width: 364
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e9f6352b84414e8cdaaa0c2c94600
+      internalID: 329295489320988769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_11
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 604
+        width: 370
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df62052cbbf65479b4de075fa79a63
+      internalID: 5884361503314681035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 105
+        width: 371
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fded871dcb78b42ace0f9dde8ea732
+      internalID: 3962419952232647810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 370
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bf7065d0f40a43ad664cfcd0603e0
+      internalID: 8657118536500957349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_14
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 104
+        width: 364
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5c5dc966423445b1e76d881e89597
+      internalID: 8608094557267856186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panic_#[500,500]_15
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 102
+        width: 360
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d852c5f9f908346bd3e9de7ff878fe
+      internalID: 4823984833082570767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35ad854ef5de8494c91d3845a998ece3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

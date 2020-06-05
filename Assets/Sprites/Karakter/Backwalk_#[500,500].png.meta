@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 63306f078e345484590010b4ce31225c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5196266541831716097
+    second: Backwalk_#[500,500]_0
+  - first:
+      213: 7509288711542127884
+    second: Backwalk_#[500,500]_1
+  - first:
+      213: -6466853902431995270
+    second: Backwalk_#[500,500]_2
+  - first:
+      213: 5691363418505692553
+    second: Backwalk_#[500,500]_3
+  - first:
+      213: -6725932446143981143
+    second: Backwalk_#[500,500]_4
+  - first:
+      213: 1533005953883427042
+    second: Backwalk_#[500,500]_5
+  - first:
+      213: -28737655749077036
+    second: Backwalk_#[500,500]_6
+  - first:
+      213: -3899173786347844891
+    second: Backwalk_#[500,500]_7
+  - first:
+      213: 6519901124855710068
+    second: Backwalk_#[500,500]_8
+  - first:
+      213: -7641533786687821461
+    second: Backwalk_#[500,500]_9
+  - first:
+      213: 7430806160304074028
+    second: Backwalk_#[500,500]_10
+  - first:
+      213: -8524018516216257225
+    second: Backwalk_#[500,500]_11
+  - first:
+      213: -1037371980373472994
+    second: Backwalk_#[500,500]_12
+  - first:
+      213: 6631990220652936623
+    second: Backwalk_#[500,500]_13
+  - first:
+      213: 391461061822608571
+    second: Backwalk_#[500,500]_14
+  - first:
+      213: 6041614424885671758
+    second: Backwalk_#[500,500]_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1604
+        width: 362
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca57e56166627245b348be09ddef522
+      internalID: 5196266541831716097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1604
+        width: 362
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a040a665858046bb182db1b957c69
+      internalID: 7509288711542127884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1604
+        width: 363
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2da7afced839243b32d6b6c16a0bbb
+      internalID: -6466853902431995270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_3
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1603
+        width: 363
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e718b566da99cc45944bc7fa6f9728e
+      internalID: 5691363418505692553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1100
+        width: 363
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f2d2bf1c2937418a9ba7f8f5ee3ca
+      internalID: -6725932446143981143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1103
+        width: 363
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f61a1a1a387940b112983c49769fc
+      internalID: 1533005953883427042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1104
+        width: 363
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca92c7ffef5cb26408f9b8be7b0fa28e
+      internalID: -28737655749077036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1104
+        width: 362
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f020db327210f4c9f6169cb227a0a3
+      internalID: -3899173786347844891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 604
+        width: 363
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe80c8f373bc6543b9b2f34771c35b6
+      internalID: 6519901124855710068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 604
+        width: 362
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6c9244257ca84994e8843de556e28
+      internalID: -7641533786687821461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 603
+        width: 362
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b98e7fc8d9df438dda1689cabb271
+      internalID: 7430806160304074028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_11
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 600
+        width: 363
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52794b65a51824ba396f61b161b448
+      internalID: -8524018516216257225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 103
+        width: 363
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70518f57833620f4898831905cb90d64
+      internalID: -1037371980373472994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 100
+        width: 363
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8701b860428604abac7176fec43f79
+      internalID: 6631990220652936623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 103
+        width: 363
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65179eab067656146b49aef0b5ad76d0
+      internalID: 391461061822608571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwalk_#[500,500]_15
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 104
+        width: 362
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d597acf174aa45b28a80521941a86
+      internalID: 6041614424885671758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7363b12d511aaeb46bacd942e01666d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

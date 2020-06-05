@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RotationPoint
+  - ButtonP1
+  - ButtonP2
+  - SpawnP1
+  - SpawnP2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fx
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3210092091
+    locked: 0
+  - name: Midground
+    uniqueID: 1658006557
+    locked: 0
+  - name: Foreground
+    uniqueID: 270020807
+    locked: 0
+  - name: Ffx
+    uniqueID: 1927121515
+    locked: 0

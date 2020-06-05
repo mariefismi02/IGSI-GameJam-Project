@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e10fce81b5dfe6b409e49406637a73ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -427413195398927753
+    second: ALUNG-ALUNG_#[500,500]_0
+  - first:
+      213: 198556505102746842
+    second: ALUNG-ALUNG_#[500,500]_1
+  - first:
+      213: -1115289103265158211
+    second: ALUNG-ALUNG_#[500,500]_2
+  - first:
+      213: 6549272135940895368
+    second: ALUNG-ALUNG_#[500,500]_3
+  - first:
+      213: 5226238041849099115
+    second: ALUNG-ALUNG_#[500,500]_4
+  - first:
+      213: -7399601613937711331
+    second: ALUNG-ALUNG_#[500,500]_5
+  - first:
+      213: -1449858930084629447
+    second: ALUNG-ALUNG_#[500,500]_6
+  - first:
+      213: 4911168982123546897
+    second: ALUNG-ALUNG_#[500,500]_7
+  - first:
+      213: 8491413955241888654
+    second: ALUNG-ALUNG_#[500,500]_8
+  - first:
+      213: -2084151859360184634
+    second: ALUNG-ALUNG_#[500,500]_9
+  - first:
+      213: -1933110102462104179
+    second: ALUNG-ALUNG_#[500,500]_10
+  - first:
+      213: 8333036958922561309
+    second: ALUNG-ALUNG_#[500,500]_11
+  - first:
+      213: 5094428659551912131
+    second: ALUNG-ALUNG_#[500,500]_12
+  - first:
+      213: -4518408906783002917
+    second: ALUNG-ALUNG_#[500,500]_13
+  - first:
+      213: 7236202872205951418
+    second: ALUNG-ALUNG_#[500,500]_14
+  - first:
+      213: 8472505862826568372
+    second: ALUNG-ALUNG_#[500,500]_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1604
+        width: 360
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d15d831c544b4a92b09b5041d4532
+      internalID: -427413195398927753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1604
+        width: 360
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a063d1641c34c5a4588a4211fa414506
+      internalID: 198556505102746842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1604
+        width: 362
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f028aa8fd9f1448fbb2f6905c53fa
+      internalID: -1115289103265158211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_3
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1604
+        width: 368
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ce462636844a438e0f855dd7cf765
+      internalID: 6549272135940895368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1104
+        width: 371
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6e7b33fa3f2c44da6def693ade6433
+      internalID: 5226238041849099115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1104
+        width: 369
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3ca67cf3ba184889bb926b94abb40
+      internalID: -7399601613937711331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1104
+        width: 363
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cadf2684b562b4a854cc8c439c7f2d
+      internalID: -1449858930084629447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1104
+        width: 360
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57131a7cb16717948bb365c4e0bed852
+      internalID: 4911168982123546897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 604
+        width: 360
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b1dff997fa6845ac6ab1974a75b1a
+      internalID: 8491413955241888654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 604
+        width: 360
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f29e5b28d392045a8f98aa84444a71
+      internalID: -2084151859360184634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 604
+        width: 363
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3568e26b25090849b877daf9d8ec04c
+      internalID: -1933110102462104179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_11
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 604
+        width: 368
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a35c2df4a25d49850f2c67f21b31d
+      internalID: 8333036958922561309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 104
+        width: 371
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee7370d5e40a24aa4051f2cc0dc664
+      internalID: 5094428659551912131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 104
+        width: 369
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b2f89f051aa24e96a03cb580a459c
+      internalID: -4518408906783002917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 104
+        width: 363
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6d8cedbe7dae4a81bc88946e27eb3
+      internalID: 7236202872205951418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALUNG-ALUNG_#[500,500]_15
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 104
+        width: 360
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ed136d2a3d284fb97f3c09ef741a1
+      internalID: 8472505862826568372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9f14bee5996b4749915956f0f054465
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
